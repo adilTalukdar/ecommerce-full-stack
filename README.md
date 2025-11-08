@@ -1,7 +1,6 @@
 
 # E-Commerce Full Stack Web Application
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Tech Stack](https://img.shields.io/badge/Stack-React%20%2B%20Spring%20Boot-green)]()
 
 ## Overview
